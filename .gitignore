@@ -1,0 +1,6 @@
+# Ignorar pastas abaixo
+build/
+Debug/
+Debug TX Pronto/
+Release/
+Release TX Pronto/
