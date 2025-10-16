@@ -82,6 +82,7 @@ int main(void) {
    /* USER CODE END SysInit */
 
    /* Initialize all configured peripherals */
+
    /* USER CODE BEGIN 2 */
 
    /* USER CODE END 2 */
@@ -90,7 +91,7 @@ int main(void) {
    /* USER CODE BEGIN WHILE */
    while (1) {
       /* USER CODE END WHILE */
-      
+      HAL_Delay();
       /* USER CODE BEGIN 3 */
    }
    /* USER CODE END 3 */
